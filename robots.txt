@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-czmb8m.shadowdiary.com/sitemap.xml
